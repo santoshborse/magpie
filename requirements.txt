@@ -33,3 +33,8 @@ ipykernel
 lingua-language-detector
 faiss-gpu
 ml_collections
+
+# Other
+tqdm
+requests
+numpy
